@@ -21,6 +21,8 @@ to test that many people work together
 
 切换用户，模拟多人操作。。。。。。
 已经在develop这个分支（人员下了）
-
+git add .
+git commit -m 'add'
+git push origin develop
 
 
