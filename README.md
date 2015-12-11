@@ -25,4 +25,12 @@ git add .
 git commit -m 'add'
 git push origin develop
 
+参考文章：
+http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo
+
+http://jingyan.baidu.com/article/bea41d437e4fbab4c51be6cf.html
+
+http://blog.csdn.net/guang11cheng/article/details/37757201
+	
+
 
